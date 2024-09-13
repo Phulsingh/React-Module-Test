@@ -1,0 +1,70 @@
+.message-conainer{
+    position: absolute;
+    left: 25%;
+    width: 1020px;
+    display: flex;
+    flex-direction: column;
+}
+.grop-header{
+    width: 1020px;
+    padding: 10px;
+    height: 60px;
+    background-color: #001F8B;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color: white;
+}
+.h1{
+    color: white;
+}
+
+.input-field{
+    margin-top: 400px;
+    background-color: #001F8B;
+    height: 134px;
+    width: 900x;
+    padding: 10px;
+}
+.text-input{
+    height: 120px;
+    background-color: aliceblue;
+    width:860px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+
+}
+.text-field{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    width: 800px;
+    height: 100px;
+    font-size: 20px;
+    color: black;
+}
+.text-field input{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    border: none;
+}
+.send-massage{
+    background-color: #001F8B;
+    color: white;
+}
+
+.showMsg{
+    position: absolute;
+    top: 77px;
+    left: 10px;
+    width: 850px;
+    height: 370px;
+}
+.showMsg ul{
+    list-style: none;
+}
